@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"/Omega z"
+);
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-02-17 20:36:56 +0000";
 designer = "Trevor Bullock";
@@ -1315,7 +1318,27 @@ unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2019-02-25 01:48:57 +0000";
+lastChange = "2019-07-29 21:11:22 +0000";
+layers = (
+{
+components = (
+{
+name = one;
+},
+{
+name = grave;
+transform = "{0.82, 0, 0, 0.82, 650, -170}";
+}
+);
+layerId = "2D1063DB-FD93-4D0E-9C16-AD1F7557348F";
+width = 1127;
+}
+);
+unicode = 007A;
+},
+{
+glyphname = Omega;
+lastChange = "2019-07-29 21:11:30 +0000";
 layers = (
 {
 components = (
@@ -1330,26 +1353,6 @@ transform = "{0.82, 0, 0, 0.82, 513, -166}";
 );
 layerId = "2D1063DB-FD93-4D0E-9C16-AD1F7557348F";
 width = 1126;
-}
-);
-unicode = 007A;
-},
-{
-glyphname = Omega;
-lastChange = "2019-02-25 01:48:57 +0000";
-layers = (
-{
-components = (
-{
-name = one;
-},
-{
-name = grave;
-transform = "{0.82, 0, 0, 0.82, 650, -170}";
-}
-);
-layerId = "2D1063DB-FD93-4D0E-9C16-AD1F7557348F";
-width = 1127;
 }
 );
 unicode = 03A9;
