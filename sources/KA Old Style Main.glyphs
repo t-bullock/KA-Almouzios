@@ -938,7 +938,7 @@ unicode = 006C;
 },
 {
 glyphname = m;
-lastChange = "2019-02-25 01:48:57 +0000";
+lastChange = "2019-12-14 19:47:06 +0000";
 layers = (
 {
 components = (
@@ -946,7 +946,9 @@ components = (
 name = A;
 },
 {
+alignment = -1;
 name = n;
+transform = "{1, 0, 0, 1, 0, -30}";
 }
 );
 layerId = "2D1063DB-FD93-4D0E-9C16-AD1F7557348F";
