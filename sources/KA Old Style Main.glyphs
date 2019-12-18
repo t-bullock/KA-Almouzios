@@ -234,14 +234,14 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2019-07-30 03:47:01 +0000";
+lastChange = "2019-12-18 02:07:58 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = k;
-transform = "{1, 0, 0, 1, 0, -40}";
+transform = "{1, 0, 0, 1, 0, -160}";
 }
 );
 layerId = "2D1063DB-FD93-4D0E-9C16-AD1F7557348F";
