@@ -1,5 +1,5 @@
-# KA Old Style
+# KA Almouzios
 
-KA Old Style is a typeface imitating the style of old notation manuscripts.
+KA Almouzios (almost Chourmouzios) is a typeface that almost looks like the popular Chourmouzios font, used in the Palaion Didaskalon Koinonika books.
 
 This font is designed for typing Byzantine Music Scores using the program [Kassia](https://github.com/t-bullock/Kassia), but can be used in any word processor or text editor.

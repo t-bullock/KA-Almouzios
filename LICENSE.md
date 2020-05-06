@@ -1,4 +1,4 @@
-Copyright (c) 2019 [Trevor Bullock](https://github.com/t-bullock), with Reserved Font Names 'KA Old Style Main', 'KA Old Style Chronos', 'KA Old Style Combo', 'KA Old Style Martyria', 'KA Old Style Fthora', and 'KA Old Style Archaia'.
+Copyright (c) 2019 [Trevor Bullock](https://github.com/t-bullock), with Reserved Font Names 'KA Almouzios Main', 'KA Almouzios Chronos', 'KA Almouzios Combo', 'KA Almouzios Martyria', 'KA Almouzios Fthora', and 'KA Almouzios Archaia'.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
