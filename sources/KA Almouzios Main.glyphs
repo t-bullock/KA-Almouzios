@@ -2155,7 +2155,7 @@ width = 1045;
 },
 {
 glyphname = parenleft;
-lastChange = "2019-02-25 01:48:57 +0000";
+lastChange = "2020-05-17 16:58:50 +0000";
 layers = (
 {
 components = (
@@ -2164,8 +2164,8 @@ name = exclam;
 transform = "{1, 0, 0, 1, 259, 0}";
 },
 {
-name = dollar;
-transform = "{1, 0, 0, 1, -1, 280}";
+name = asterisk;
+transform = "{1, 0, 0, 1, 0, 280}";
 }
 );
 layerId = "2D1063DB-FD93-4D0E-9C16-AD1F7557348F";
