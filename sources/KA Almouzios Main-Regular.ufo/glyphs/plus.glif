@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="2">
+	<advance width="322"/>
+	<unicode hex="002B"/>
+	<outline>
+		<component base="_part.barline" yScale="0.8" xOffset="145"/>
+		<component base="_part.barline" xScale="0" xyScale="-1" yScale="0" yxScale="0.8" xOffset="119" yOffset="59"/>
+	</outline>
+</glyph>

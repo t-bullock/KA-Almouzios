@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+	<advance width="1256"/>
+	<unicode hex="0076"/>
+	<outline>
+		<component base="_part.oligon_long"/>
+		<component base="hyphen" xOffset="177" yOffset="240"/>
+		<component base="grave" xOffset="642" yOffset="250"/>
+	</outline>
+</glyph>

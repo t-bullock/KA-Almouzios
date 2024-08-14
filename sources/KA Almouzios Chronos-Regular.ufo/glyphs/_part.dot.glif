@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.dot" format="2">
+	<advance width="90"/>
+	<outline>
+		<contour>
+			<point x="35" y="259" type="curve"/>
+			<point x="35" y="259" type="line"/>
+			<point x="48" y="259"/>
+			<point x="58" y="260"/>
+			<point x="63" y="261" type="curve"/>
+			<point x="68" y="262"/>
+			<point x="71" y="265"/>
+			<point x="73" y="270" type="curve"/>
+			<point x="75" y="275"/>
+			<point x="76" y="279"/>
+			<point x="77" y="282" type="curve"/>
+			<point x="81" y="297"/>
+			<point x="85" y="308"/>
+			<point x="89" y="314" type="curve"/>
+			<point x="91" y="317"/>
+			<point x="90" y="319"/>
+			<point x="87" y="320" type="curve"/>
+			<point x="83" y="321"/>
+			<point x="72" y="321"/>
+			<point x="54" y="321" type="curve"/>
+			<point x="38" y="321"/>
+			<point x="30" y="321"/>
+			<point x="26" y="320" type="curve"/>
+			<point x="22" y="319"/>
+			<point x="20" y="317"/>
+			<point x="19" y="313" type="curve"/>
+			<point x="14" y="300" type="line"/>
+			<point x="9" y="287"/>
+			<point x="6" y="279"/>
+			<point x="3" y="275" type="curve"/>
+			<point x="1" y="272"/>
+			<point x="0" y="270"/>
+			<point x="0" y="268" type="curve"/>
+			<point x="0" y="262"/>
+			<point x="12" y="259"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

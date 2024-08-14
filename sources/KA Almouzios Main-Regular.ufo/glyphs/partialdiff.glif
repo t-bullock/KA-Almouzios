@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="2">
+	<advance width="0"/>
+	<unicode hex="2202"/>
+	<outline>
+		<contour>
+			<point x="-307" y="-225" type="curve"/>
+			<point x="-307" y="-225" type="line"/>
+			<point x="-307" y="-220"/>
+			<point x="-300" y="-213"/>
+			<point x="-292" y="-210" type="curve"/>
+			<point x="-283" y="-207"/>
+			<point x="-271" y="-191"/>
+			<point x="-266" y="-174" type="curve"/>
+			<point x="-255" y="-145"/>
+			<point x="-254" y="-144"/>
+			<point x="-189" y="-144" type="curve"/>
+			<point x="-138" y="-144"/>
+			<point x="-126" y="-147"/>
+			<point x="-140" y="-155" type="curve"/>
+			<point x="-149" y="-160"/>
+			<point x="-164" y="-181"/>
+			<point x="-172" y="-200" type="curve"/>
+			<point x="-186" y="-233"/>
+			<point x="-187" y="-234"/>
+			<point x="-246" y="-234" type="curve"/>
+			<point x="-280" y="-234"/>
+			<point x="-307" y="-230"/>
+		</contour>
+	</outline>
+</glyph>

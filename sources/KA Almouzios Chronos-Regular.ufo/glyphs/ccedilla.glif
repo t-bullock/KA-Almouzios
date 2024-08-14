@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="2">
+	<advance width="0"/>
+	<unicode hex="00E7"/>
+	<note>
+		ccedilla
+  </note>
+	<outline>
+		<component base="_part.gorgon_dot" xOffset="-720" yOffset="-430"/>
+	</outline>
+</glyph>

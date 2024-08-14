@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="2">
+	<advance width="1256"/>
+	<unicode hex="0078"/>
+	<outline>
+		<contour>
+			<point x="653" y="197" type="curve"/>
+			<point x="653" y="197" type="line"/>
+			<point x="615" y="209"/>
+			<point x="558" y="212"/>
+			<point x="408" y="211" type="curve"/>
+			<point x="233" y="210"/>
+			<point x="207" y="212"/>
+			<point x="157" y="231" type="curve"/>
+			<point x="81" y="260"/>
+			<point x="39" y="296"/>
+			<point x="32" y="341" type="curve"/>
+			<point x="25" y="386"/>
+			<point x="42" y="404"/>
+			<point x="110" y="425" type="curve"/>
+			<point x="155" y="439"/>
+			<point x="168" y="438"/>
+			<point x="227" y="424" type="curve"/>
+			<point x="300" y="407"/>
+			<point x="338" y="387"/>
+			<point x="338" y="364" type="curve"/>
+			<point x="338" y="340"/>
+			<point x="309" y="336"/>
+			<point x="271" y="354" type="curve"/>
+			<point x="239" y="369"/>
+			<point x="234" y="369"/>
+			<point x="212" y="355" type="curve"/>
+			<point x="183" y="336"/>
+			<point x="181" y="304"/>
+			<point x="207" y="290" type="curve"/>
+			<point x="220" y="283"/>
+			<point x="278" y="282"/>
+			<point x="365" y="286" type="curve"/>
+			<point x="575" y="296"/>
+			<point x="723" y="261"/>
+			<point x="723" y="205" type="curve"/>
+			<point x="723" y="180"/>
+			<point x="712" y="178"/>
+		</contour>
+		<component base="_part.oligon_long"/>
+		<component base="grave" xOffset="690" yOffset="250"/>
+	</outline>
+</glyph>

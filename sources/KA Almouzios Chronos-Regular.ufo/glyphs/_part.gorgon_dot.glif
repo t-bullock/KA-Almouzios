@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.gorgon_dot" format="2">
+	<advance width="490"/>
+	<note>
+		z
+  </note>
+	<outline>
+		<component base="_part.gorgon"/>
+		<component base="_part.dot" xOffset="400" yOffset="30"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

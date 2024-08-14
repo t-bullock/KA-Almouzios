@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="2">
+	<advance width="1256"/>
+	<unicode hex="0031"/>
+	<outline>
+		<contour>
+			<point x="588" y="193" type="curve"/>
+			<point x="588" y="193" type="line"/>
+			<point x="556" y="203"/>
+			<point x="539" y="227"/>
+			<point x="523" y="280" type="curve"/>
+			<point x="500" y="355"/>
+			<point x="494" y="367"/>
+			<point x="477" y="373" type="curve"/>
+			<point x="466" y="377"/>
+			<point x="460" y="384"/>
+			<point x="462" y="388" type="curve"/>
+			<point x="468" y="401"/>
+			<point x="506" y="406"/>
+			<point x="552" y="400" type="curve"/>
+			<point x="604" y="393"/>
+			<point x="619" y="378"/>
+			<point x="640" y="307" type="curve"/>
+			<point x="662" y="233"/>
+			<point x="669" y="222"/>
+			<point x="683" y="217" type="curve"/>
+			<point x="698" y="212"/>
+			<point x="700" y="197"/>
+			<point x="684" y="190" type="curve"/>
+			<point x="670" y="184"/>
+			<point x="614" y="185"/>
+		</contour>
+		<component base="_part.oligon_long"/>
+		<component base="_part.hypsele"/>
+		<component base="_part.hypsele" xOffset="412" yOffset="241"/>
+	</outline>
+</glyph>

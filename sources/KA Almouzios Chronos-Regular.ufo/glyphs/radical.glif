@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="2">
+	<advance width="0"/>
+	<unicode hex="221A"/>
+	<note>
+		radical
+  </note>
+	<outline>
+		<component base="_part.gorgon_dot" xOffset="-338" yOffset="73"/>
+	</outline>
+</glyph>

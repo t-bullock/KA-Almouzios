@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="2">
+	<advance width="0"/>
+	<unicode hex="006E"/>
+	<note>
+		n
+  </note>
+	<outline>
+		<component base="_part.gorgon" xOffset="-338" yOffset="-500"/>
+	</outline>
+</glyph>

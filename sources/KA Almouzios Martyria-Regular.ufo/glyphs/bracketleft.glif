@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+	<advance width="633"/>
+	<unicode hex="005B"/>
+	<outline>
+		<component base="r" yOffset="660"/>
+		<component base="_part.hypsele" xOffset="97" yOffset="396"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>r</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

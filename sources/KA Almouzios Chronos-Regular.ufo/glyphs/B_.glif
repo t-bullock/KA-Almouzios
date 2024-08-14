@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+	<advance width="0"/>
+	<unicode hex="0042"/>
+	<note>
+		B
+  </note>
+	<outline>
+		<component base="_part.dot_gorgon" xOffset="-1110" yOffset="250"/>
+	</outline>
+</glyph>

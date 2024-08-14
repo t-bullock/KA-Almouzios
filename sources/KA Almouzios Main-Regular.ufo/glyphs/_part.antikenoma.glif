@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.antikenoma" format="2">
+	<advance width="1043"/>
+	<outline>
+		<contour>
+			<point x="910" y="-296" type="curve"/>
+			<point x="910" y="-296" type="line"/>
+			<point x="882" y="-275"/>
+			<point x="898" y="-247"/>
+			<point x="935" y="-252" type="curve"/>
+			<point x="994" y="-261"/>
+			<point x="952" y="-217"/>
+			<point x="878" y="-193" type="curve"/>
+			<point x="819" y="-174"/>
+			<point x="369" y="-164"/>
+			<point x="152" y="-177" type="curve"/>
+			<point x="45" y="-183"/>
+			<point x="11" y="-182"/>
+			<point x="3" y="-173" type="curve"/>
+			<point x="-28" y="-138"/>
+			<point x="168" y="-116"/>
+			<point x="520" y="-116" type="curve"/>
+			<point x="741" y="-116"/>
+			<point x="816" y="-120"/>
+			<point x="877" y="-132" type="curve"/>
+			<point x="968" y="-152"/>
+			<point x="1031" y="-182"/>
+			<point x="1040" y="-210" type="curve"/>
+			<point x="1050" y="-240"/>
+			<point x="1036" y="-289"/>
+			<point x="1015" y="-300" type="curve"/>
+			<point x="988" y="-314"/>
+			<point x="932" y="-312"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

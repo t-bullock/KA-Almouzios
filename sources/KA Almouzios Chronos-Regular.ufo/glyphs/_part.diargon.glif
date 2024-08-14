@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.diargon" format="2">
+	<advance width="438"/>
+	<note>
+		slash
+  </note>
+	<outline>
+		<contour>
+			<point x="301" y="208" type="curve"/>
+			<point x="301" y="208" type="line"/>
+			<point x="323" y="208"/>
+			<point x="352" y="227"/>
+			<point x="387" y="264" type="curve"/>
+			<point x="423" y="306" type="line" smooth="yes"/>
+			<point x="433" y="319"/>
+			<point x="438" y="326"/>
+			<point x="438" y="329" type="curve"/>
+			<point x="438" y="336"/>
+			<point x="386" y="340"/>
+			<point x="282" y="340" type="curve"/>
+			<point x="241" y="340"/>
+			<point x="212" y="340"/>
+			<point x="197" y="339" type="curve"/>
+			<point x="228" y="360"/>
+			<point x="262" y="400"/>
+			<point x="283" y="426" type="curve"/>
+			<point x="293" y="439"/>
+			<point x="298" y="446"/>
+			<point x="298" y="449" type="curve"/>
+			<point x="298" y="452"/>
+			<point x="287" y="455"/>
+			<point x="264" y="457" type="curve"/>
+			<point x="241" y="459"/>
+			<point x="215" y="460"/>
+			<point x="187" y="460" type="curve"/>
+			<point x="112" y="460"/>
+			<point x="62" y="459"/>
+			<point x="37" y="458" type="curve"/>
+			<point x="11" y="456"/>
+			<point x="-1" y="452"/>
+			<point x="0" y="447" type="curve"/>
+			<point x="3" y="438"/>
+			<point x="46" y="431"/>
+			<point x="128" y="427" type="curve"/>
+			<point x="171" y="425" type="line"/>
+			<point x="156" y="407"/>
+			<point x="147" y="396"/>
+			<point x="143" y="392" type="curve"/>
+			<point x="120" y="369"/>
+			<point x="108" y="350"/>
+			<point x="108" y="336" type="curve"/>
+			<point x="108" y="333"/>
+			<point x="109" y="330"/>
+			<point x="110" y="327" type="curve"/>
+			<point x="113" y="322"/>
+			<point x="121" y="318"/>
+			<point x="135" y="317" type="curve"/>
+			<point x="149" y="315"/>
+			<point x="178" y="313"/>
+			<point x="223" y="310" type="curve"/>
+			<point x="311" y="305" type="line"/>
+			<point x="283" y="272" type="line" smooth="yes"/>
+			<point x="270" y="256"/>
+			<point x="263" y="245"/>
+			<point x="263" y="238" type="curve"/>
+			<point x="263" y="233"/>
+			<point x="265" y="228"/>
+			<point x="268" y="225" type="curve"/>
+			<point x="277" y="214"/>
+			<point x="288" y="208"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

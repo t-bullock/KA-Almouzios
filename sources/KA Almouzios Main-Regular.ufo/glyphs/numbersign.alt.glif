@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.alt" format="2">
+	<advance width="1045"/>
+	<outline>
+		<component base="at.alt"/>
+		<component base="_part.apostrophos_small" xScale="0.9" yScale="0.9"/>
+	</outline>
+</glyph>

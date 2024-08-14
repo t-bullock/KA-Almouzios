@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="2">
+	<advance width="0"/>
+	<unicode hex="0071"/>
+	<outline>
+		<component base="_part.diatonic_pa" xOffset="-740" yOffset="250"/>
+	</outline>
+</glyph>

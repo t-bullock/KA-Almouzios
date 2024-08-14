@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright" format="2">
+	<advance width="0"/>
+	<unicode hex="007D"/>
+	<outline>
+		<component base="_part.barline" yScale="0.8" xOffset="-1150" yOffset="230"/>
+	</outline>
+</glyph>

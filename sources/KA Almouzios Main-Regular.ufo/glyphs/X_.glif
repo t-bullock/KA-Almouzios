@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+	<advance width="1256"/>
+	<unicode hex="0058"/>
+	<outline>
+		<component base="_part.oligon_long"/>
+		<component base="grave" xOffset="690" yOffset="250"/>
+		<component base="exclam" yOffset="245"/>
+	</outline>
+</glyph>

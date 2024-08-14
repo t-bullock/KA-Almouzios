@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+	<advance width="0"/>
+	<unicode hex="2018"/>
+	<outline>
+		<component base="_part.psefeston" xScale="0.9994" xyScale="0.0349" yScale="0.9994" yxScale="-0.0349" xOffset="1260" yOffset="-85"/>
+	</outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.barline" format="2">
+	<advance width="34"/>
+	<outline>
+		<contour>
+			<point x="4" y="-77" type="curve"/>
+			<point x="4" y="-77" type="line"/>
+			<point x="10" y="-80"/>
+			<point x="24" y="-80"/>
+			<point x="30" y="-77" type="curve"/>
+			<point x="37" y="-73"/>
+			<point x="34" y="-67"/>
+			<point x="34" y="44" type="curve"/>
+			<point x="34" y="151"/>
+			<point x="37" y="178"/>
+			<point x="30" y="181" type="curve"/>
+			<point x="23" y="184"/>
+			<point x="11" y="184"/>
+			<point x="4" y="181" type="curve"/>
+			<point x="-3" y="178"/>
+			<point x="0" y="151"/>
+			<point x="0" y="44" type="curve"/>
+			<point x="0" y="-67"/>
+			<point x="-3" y="-73"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

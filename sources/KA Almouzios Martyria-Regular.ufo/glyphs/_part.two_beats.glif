@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.two_beats" format="2">
+	<advance width="855"/>
+	<outline>
+		<contour>
+			<point x="742" y="-44" type="curve"/>
+			<point x="742" y="-44" type="line"/>
+			<point x="737" y="-40"/>
+			<point x="718" y="-34"/>
+			<point x="704" y="-31" type="curve"/>
+			<point x="677" y="-24"/>
+			<point x="649" y="-20"/>
+			<point x="607" y="-18" type="curve"/>
+			<point x="580" y="-16"/>
+			<point x="441" y="-18"/>
+			<point x="366" y="-19" type="curve"/>
+			<point x="311" y="-21"/>
+			<point x="265" y="-18"/>
+			<point x="218" y="-9" type="curve"/>
+			<point x="148" y="4"/>
+			<point x="105" y="28"/>
+			<point x="100" y="59" type="curve"/>
+			<point x="98" y="73"/>
+			<point x="107" y="81"/>
+			<point x="116" y="75" type="curve"/>
+			<point x="133" y="66"/>
+			<point x="176" y="59"/>
+			<point x="220" y="52" type="curve"/>
+			<point x="250" y="49"/>
+			<point x="348" y="50"/>
+			<point x="455" y="52" type="curve"/>
+			<point x="556" y="56"/>
+			<point x="583" y="55"/>
+			<point x="603" y="52" type="curve"/>
+			<point x="658" y="44"/>
+			<point x="704" y="22"/>
+			<point x="745" y="-12" type="curve"/>
+			<point x="760" y="-25"/>
+			<point x="756" y="-53"/>
+		</contour>
+		<component base="_part.diple" xScale="0.6768" yScale="0.6768" xOffset="432" yOffset="-146"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

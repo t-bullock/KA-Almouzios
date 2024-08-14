@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="2">
+	<advance width="1142"/>
+	<unicode hex="0039"/>
+	<outline>
+		<component base="six"/>
+		<component base="_part.hypsele" xOffset="340" yOffset="230"/>
+	</outline>
+</glyph>
